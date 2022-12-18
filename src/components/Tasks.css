@@ -1,0 +1,42 @@
+.tasks-main {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+    background-color: #e2e7fc;
+    height: 80px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 5px;
+
+
+}
+
+.left h3 {
+    font-family: 'Poppins', sans-serif;
+    font-size: 17px;
+
+
+}
+
+.left p {
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.tasks-main button {
+    font-family: 'Roboto', sans-serif;
+    font-size: 18px;
+    width: 30px;
+    height: 30px;
+    font-weight: 900;
+    border-radius: 50%;
+    border: none;
+    background-color: #ff8080;
+
+
+}
+
+.tasks-main button:hover {
+    background-color: #ff4444;
+}
